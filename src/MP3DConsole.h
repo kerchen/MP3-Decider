@@ -46,6 +46,7 @@ public:
 	 *	con << "sentence.\n";
 	 * The above code would produce this output:
 	 *	12:43:19 (DEBUG): This is not a mangled sentence.
+     *	(Um, yes it is, dude...)
 	 */
 	static Console& Instance( Severity s = DEBUG )
 	{
