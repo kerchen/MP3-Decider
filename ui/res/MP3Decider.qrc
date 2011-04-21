@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="MainWindow" >
+    <file>DoNotMoveButton.png</file>
+    <file>BadFileButton.png</file>
+    <file>GoodFileButton.png</file>
+    <file>PauseButton.png</file>
+    <file>PlayButton.png</file>
+    <file>ReplayButton.png</file>
+    <file>RewindButton.png</file>
+    <file>StopButton.png</file>
+    <file>FastForwardButton.png</file>
+  </qresource>
+</RCC>
